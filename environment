@@ -1,0 +1,4 @@
+DOCKER_USER=ukhomeoffice
+DOCKER_BASE=gliderlabs/alpine:${ALPINE_VERSION}
+GOSU_VERSION=1.7
+GOSU_DOWNLOAD_URL=https://github.com/tianon/gosu/releases/download/${GOSU_VERSION}/gosu-amd64
